@@ -1,6 +1,6 @@
 export ZSH=$HOME"/.oh-my-zsh"
 
-plugins=(git kubectl)
+plugins=(git kubectl go)
 
 POWERLEVEL9K_MODE='nerdfont-complete'
 ZSH_THEME="powerlevel9k/powerlevel9k"
